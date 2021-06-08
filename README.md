@@ -42,4 +42,6 @@ Twitter limits scrolls while browsing the user timeline. This means that with `.
 
 ## Installing
 
-Todo
+```
+pip install git+https://github.com/umass-forensics/twint.git
+```
