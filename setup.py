@@ -4,11 +4,11 @@ import io
 import os
 
 # Package meta-data
-NAME = 'twint'
-DESCRIPTION = 'An advanced Twitter scraping & OSINT tool.'
-URL = 'https://github.com/twintproject/twint'
-EMAIL = 'codyzacharias@pm.me'
-AUTHOR = 'Cody Zacharias'
+NAME = 'rltwint'
+DESCRIPTION = 'An advanced Twitter scraping & OSINT tool maintained by umass'
+URL = 'https://github.com/umass-forensics/twint'
+EMAIL = ''
+AUTHOR = 'Jagath Jai Kumar'
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = None
 
