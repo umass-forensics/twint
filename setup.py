@@ -10,7 +10,7 @@ URL = "https://github.com/umass-forensics/twint"
 EMAIL = ""
 AUTHOR = "Jagath Jai Kumar"
 REQUIRES_PYTHON = ">=3.6.0"
-VERSION = "0.2.0"
+VERSION = "0.3.0"
 
 # Packages required
 REQUIRED = [
