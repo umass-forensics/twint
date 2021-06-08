@@ -52,10 +52,10 @@ setup(
     author_email=EMAIL,
     python_requires=REQUIRES_PYTHON,
     url=URL,
-    packages=["twint", "twint.storage"],
+    packages=["rltwint", "rltwint.storage"],
     entry_points={
         "console_scripts": [
-            "twint = twint.cli:run_as_command",
+            "rltwint = rltwint.cli:run_as_command",
         ],
     },
     install_requires=REQUIRED,
